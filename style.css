@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wraper {
+	margin: 0 auto;
+	height: 380px;
+	width: 250px;	
+	border: 2px solid grey;
+	border-radius: 5px;
+}
+.casio {
+	padding-right: 17px;
+	height: 35px;
+	background: grey;
+	margin-top: 15px;
+	line-height: 35px;
+	color: #fff;
+	margin-bottom: 10px;
+	text-align: right;
+	
+
+}
+.center {
+	
+	width: 238px;
+	margin: 0 auto;
+	
+}
+input {
+	border: 2px solid grey;
+	border-radius: 5px;
+	height: 30px;
+	text-align: right;
+	}
+.squart {
+	height: 25px;
+	width: 80px;
+	background: grey;
+	margin: 7px 9px 10px 0 ;
+	float: right;
+}
+.calc {
+	margin: 0 0 0 0;
+	clear: both;
+	top: 38px;
+	width: 238px;
+	height: 210px;
+	
+}
+.f {
+	width: 	49px;
+	height: 49px;
+	border: 2px solid grey; 
+	border-radius: 5px;
+	margin: 3px;
+	float: left;
+	font-weight: bold;
+	color: grey;
+	text-align: center;
+	line-height: 40px;
+
+}
+placeholder
